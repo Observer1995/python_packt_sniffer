@@ -2,7 +2,7 @@
 
 **Auother: mohamad**
 
-**contact me on gmial: mohamad.mi4w2gmail.com or telegram :@MMD_MRD95**
+**contact me on telegram :@MMD_MRD95**
 
 packet sniffer for capturing networks packets in  _linux_  only
 
