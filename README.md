@@ -1,9 +1,5 @@
 # python_packt_sniffer
 
-**Auother: mohamad**
-
-**contact me on telegram :@MMD_MRD95**
-
 packet sniffer for capturing networks packets in  _linux_  only
 
 before run sniffer set your network interface on  _promisc_ mode (e.g:** ifconfig eth0 _promisc_ )
